@@ -40,9 +40,9 @@
 
 		<resource-dir src="FacebookSDK" />
 
-		<header-file src="FacebookConnectPlugin.h" />
+		<header-file src="FacebookConnect.h" />
 
-		<source-file src="FacebookConnectPlugin.m" />
+		<source-file src="FacebookConnect.m" />
 	</platform>
 
 </plugin>
